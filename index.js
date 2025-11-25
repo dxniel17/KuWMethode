@@ -521,7 +521,6 @@ function PraxisPage() {
       <div class="max-w-6xl mx-auto px-4 py-8">
         <div class="text-center mb-12" data-reveal>
           <h1 class="text-4xl font-bold text-gray-900 mb-4">Praxis-Übungen</h1>
-          <p class="text-xl text-gray-600 max-w-3xl mx-auto">Spielerische Übungen: schnell umsetzbar, mit klaren Schritten und Sicherheit.</p>
         </div>
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">${cards}</div>
       </div>
